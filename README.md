@@ -1,1 +1,1 @@
-# patika.dev kapsamındaki eğitimlerde verilen ödevlerin çözümlerini içerir.
+## patika.dev kapsamındaki eğitimlerde verilen ödevlerin çözümlerini içerir.
