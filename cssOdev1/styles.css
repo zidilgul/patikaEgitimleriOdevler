@@ -5,13 +5,29 @@ D6E4E5
 EB6440
 */
 
+*{
+        margin: 0;
+        padding: 0;
+}
 
 body{
         background: #EFF5F5;
         color: #497174;
+        text-align: center;
+        margin: 2rem 5rem;
 }
 
 #title{
         font-size: 5em;
         color: #EB6440;
+}
+
+nav{
+        text-align: center;
+        padding: 4rem;
+}
+
+img#poster{
+        width: 20rem;
+        height: 30rem;
 }
