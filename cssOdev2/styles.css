@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  text-align: center;
+  margin: 0 6rem;
+}
+div {
+  text-align: center;
+  height: 70px;
+  margin: 2px;
+}
+
+div.searcharea {
+  background: #eeeeee;
+  height: 60px;
+  padding: 5px;
+}
+
+input#searchbar {
+  display: inline-block;
+  width: 17rem;
+}
+
+button {
+  padding: 1px 3px;
+}
+
+div#search {
+  background: #7ee4da;
+  width: 40%;
+  float: left;
+}
+div#links {
+  background: #70ccc2;
+  width: 19%;
+  float: left;
+  font-size: smaller;
+}
+div#subscribe {
+  background: #62b3aa;
+  width: 40%;
+  padding: 0;
+  float: left;
+  font-size: small;
+}
